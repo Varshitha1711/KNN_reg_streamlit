@@ -1,5 +1,5 @@
 
-## 2. California House Price Prediction (KNN Regressor)
+## California House Price Prediction (KNN Regressor)
 
 ```md
 # California House Price Prediction using KNN Regressor
